@@ -16,6 +16,31 @@
 			"id" : 2,
 			"name" : "New Kid in Town.mp3",
 			"url" : "https://cdn.jsdelivr.net/gh/yingshulu/content/New_Kid_in_Town.mp3"
+		},
+		{
+			"id" : 3,
+			"name" : "The_Last_Resort.mp3",
+			"url" : "https://cdn.jsdelivr.net/gh/yingshulu/content/The_Last_Resort.mp3"
+		},
+		{
+			"id" : 4,
+			"name" : "Try_and_Love_Again.mp3",
+			"url" : "https://cdn.jsdelivr.net/gh/yingshulu/content/Try_and_Love_Again.mp3"
+		},
+		{
+			"id" : 5,
+			"name" : "Pretty_Maids_All_in_a_Row.mp3",
+			"url" : "https://cdn.jsdelivr.net/gh/yingshulu/content/Pretty_Maids_All_in_a_Row.mp3"
+		},
+		{
+			"id" : 6,
+			"name" : "Vicitm_of_Love.mp3",
+			"url" : "https://cdn.jsdelivr.net/gh/yingshulu/content/Vicitm_of_Love.mp3"
+		},
+		{
+			"id" : 7,
+			"name" : "Wasted_Time.mp3",
+			"url" : "https://cdn.jsdelivr.net/gh/yingshulu/content/Wasted_Time.mp3"
 		}
 	]
 }
