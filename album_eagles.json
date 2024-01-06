@@ -1,0 +1,21 @@
+{
+	"id" : 0,
+	"name" : "eagles classic",
+	"songs" : [
+		{
+			"id" : 0,
+			"name" : "Hotel California.mp3",
+			"url": "https://cdn.jsdelivr.net/gh/yingshulu/content/Hotel_California.mp3"
+		},
+		{
+			"id" : 1,
+			"name" : "Life in the Fast Lane.mp3",
+			"url" : "https://cdn.jsdelivr.net/gh/yingshulu/content/Life_in_the_Fast_Lane.mp3"
+		},
+		{
+			"id" : 2,
+			"name" : "New Kind in Town.mp3",
+			"url" : "https://cdn.jsdelivr.net/gh/yingshulu/content/New_Kind_in_Town.mp3"
+		}
+	]
+}
