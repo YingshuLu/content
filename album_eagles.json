@@ -41,6 +41,16 @@
 			"id" : 7,
 			"name" : "Wasted_Time.mp3",
 			"url" : "https://cdn.jsdelivr.net/gh/yingshulu/content/Wasted_Time.mp3"
+		},
+		{
+			"id" : 8,
+			"name" : "JohnDenver-TakeMeHomeCountryRoad.mp3",
+			"url" : "https://cdn.jsdelivr.net/gh/yingshulu/content/JohnDenver-TakeMeHomeCountryRoad.mp3"
+		},
+		{
+			"id" : 9,
+			"name" : "Imagine.mp3",
+			"url" : "https://cdn.jsdelivr.net/gh/yingshulu/content/Imagine.mp3"
 		}
 	]
 }
