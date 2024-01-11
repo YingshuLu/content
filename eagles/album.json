@@ -1,56 +1,58 @@
 {
-	"id" : 0,
-	"name" : "eagles classic",
-	"songs" : [
+	"id": 0,
+	"name": "eagles",
+	"image_url": "https://cdn.jsdelivr.net/gh/yingshulu/content/eagles/cover.jpeg",
+	"playlist_url": "https://cdn.jsdelivr.net/gh/yingshulu/content/eagles/album.json",
+	"songs": [
 		{
-			"id" : 0,
-			"name" : "Hotel California.mp3",
-			"url": "https://cdn.jsdelivr.net/gh/yingshulu/content/Hotel_California.mp3"
+			"id": 0,
+			"name": "Hotel California.mp3",
+			"url": "https://cdn.jsdelivr.net/gh/yingshulu/content/eagles/Hotel%20California.mp3"
 		},
 		{
-			"id" : 1,
-			"name" : "Life in the Fast Lane.mp3",
-			"url" : "https://cdn.jsdelivr.net/gh/yingshulu/content/Life_in_the_Fast_Lane.mp3"
+			"id": 1,
+			"name": "Imagine.mp3",
+			"url": "https://cdn.jsdelivr.net/gh/yingshulu/content/eagles/Imagine.mp3"
 		},
 		{
-			"id" : 2,
-			"name" : "New Kid in Town.mp3",
-			"url" : "https://cdn.jsdelivr.net/gh/yingshulu/content/New_Kid_in_Town.mp3"
+			"id": 2,
+			"name": "Life in the Fast Lane.mp3",
+			"url": "https://cdn.jsdelivr.net/gh/yingshulu/content/eagles/Life%20in%20the%20Fast%20Lane.mp3"
 		},
 		{
-			"id" : 3,
-			"name" : "The_Last_Resort.mp3",
-			"url" : "https://cdn.jsdelivr.net/gh/yingshulu/content/The_Last_Resort.mp3"
+			"id": 3,
+			"name": "New Kid in Town.mp3",
+			"url": "https://cdn.jsdelivr.net/gh/yingshulu/content/eagles/New%20Kid%20in%20Town.mp3"
 		},
 		{
-			"id" : 4,
-			"name" : "Try_and_Love_Again.mp3",
-			"url" : "https://cdn.jsdelivr.net/gh/yingshulu/content/Try_and_Love_Again.mp3"
+			"id": 4,
+			"name": "Pretty Maids All in a Row.mp3",
+			"url": "https://cdn.jsdelivr.net/gh/yingshulu/content/eagles/Pretty%20Maids%20All%20in%20a%20Row.mp3"
 		},
 		{
-			"id" : 5,
-			"name" : "Pretty_Maids_All_in_a_Row.mp3",
-			"url" : "https://cdn.jsdelivr.net/gh/yingshulu/content/Pretty_Maids_All_in_a_Row.mp3"
+			"id": 5,
+			"name": "Take Me Home Country Road.mp3",
+			"url": "https://cdn.jsdelivr.net/gh/yingshulu/content/eagles/Take%20Me%20Home%20Country%20Road.mp3"
 		},
 		{
-			"id" : 6,
-			"name" : "Vicitm_of_Love.mp3",
-			"url" : "https://cdn.jsdelivr.net/gh/yingshulu/content/Vicitm_of_Love.mp3"
+			"id": 6,
+			"name": "The Last Resort.mp3",
+			"url": "https://cdn.jsdelivr.net/gh/yingshulu/content/eagles/The%20Last%20Resort.mp3"
 		},
 		{
-			"id" : 7,
-			"name" : "Wasted_Time.mp3",
-			"url" : "https://cdn.jsdelivr.net/gh/yingshulu/content/Wasted_Time.mp3"
+			"id": 7,
+			"name": "Try and Love Again.mp3",
+			"url": "https://cdn.jsdelivr.net/gh/yingshulu/content/eagles/Try%20and%20Love%20Again.mp3"
 		},
 		{
-			"id" : 8,
-			"name" : "JohnDenver-TakeMeHomeCountryRoad.mp3",
-			"url" : "https://cdn.jsdelivr.net/gh/yingshulu/content/JohnDenver-TakeMeHomeCountryRoad.mp3"
+			"id": 8,
+			"name": "Vicitm of Love.mp3",
+			"url": "https://cdn.jsdelivr.net/gh/yingshulu/content/eagles/Vicitm%20of%20Love.mp3"
 		},
 		{
-			"id" : 9,
-			"name" : "Imagine.mp3",
-			"url" : "https://cdn.jsdelivr.net/gh/yingshulu/content/Imagine.mp3"
+			"id": 9,
+			"name": "Wasted Time.mp3",
+			"url": "https://cdn.jsdelivr.net/gh/yingshulu/content/eagles/Wasted%20Time.mp3"
 		}
 	]
 }

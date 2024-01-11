@@ -1,0 +1,16 @@
+{
+	"albums": [
+		{
+			"id": 0,
+			"name": "eagles",
+			"image_url": "https://cdn.jsdelivr.net/gh/yingshulu/content/eagles/cover.jpeg",
+			"playlist_url": "https://cdn.jsdelivr.net/gh/yingshulu/content/eagles/album.json"
+		},
+		{
+			"id": 1,
+			"name": "滚石经典",
+			"image_url": "https://cdn.jsdelivr.net/gh/yingshulu/content/%E6%BB%9A%E7%9F%B3%E7%BB%8F%E5%85%B8/rock_records.jpeg",
+			"playlist_url": "https://cdn.jsdelivr.net/gh/yingshulu/content/%E6%BB%9A%E7%9F%B3%E7%BB%8F%E5%85%B8/album.json"
+		}
+	]
+}
