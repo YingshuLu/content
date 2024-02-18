@@ -1,0 +1,28 @@
+{
+	"id": 2,
+	"name": "westlife",
+	"image_url": "https://cdn.jsdelivr.net/gh/yingshulu/content/westlife/cover.jpg",
+	"playlist_url": "https://cdn.jsdelivr.net/gh/yingshulu/content/westlife/album.json",
+	"songs": [
+		{
+			"id": 0,
+			"name": "Beautiful World.mp3",
+			"url": "https://cdn.jsdelivr.net/gh/yingshulu/content/westlife/Beautiful%20World.mp3"
+		},
+		{
+			"id": 1,
+			"name": "Nothing's Gonna Change My Love For You.mp3",
+			"url": "https://cdn.jsdelivr.net/gh/yingshulu/content/westlife/Nothing%27s%20Gonna%20Change%20My%20Love%20For%20You.mp3"
+		},
+		{
+			"id": 2,
+			"name": "Seasons in the Sun.mp3",
+			"url": "https://cdn.jsdelivr.net/gh/yingshulu/content/westlife/Seasons%20in%20the%20Sun.mp3"
+		},
+		{
+			"id": 3,
+			"name": "yellow.mp3",
+			"url": "https://cdn.jsdelivr.net/gh/yingshulu/content/westlife/yellow.mp3"
+		}
+	]
+}
